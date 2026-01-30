@@ -15,7 +15,7 @@ const About = () => {
       consultations: 12000,
       languages: ['Hindi', 'English'],
       bio: 'Expert Vedic astrologer with decades of experience in Kundli analysis, marriage matching, and life guidance.',
-      image: 'src/assets/astrovichar.png',
+      image: 'https://res.cloudinary.com/dc95e31uf/image/upload/v1769753566/astrovichar_1_ehktot.png',
       calLink: 'https://cal.id/astro-vichar',
     },
   ];
