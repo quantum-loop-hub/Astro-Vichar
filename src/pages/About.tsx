@@ -7,10 +7,10 @@ import { Badge } from '@/components/ui/badge';
 const About = () => {
   const astrologers = [
     {
-      name: 'Pandit Ramesh Sharma',
-      email: 'ramesh.sharma@astrovichar.com',
+      name: 'Pandit Akhilesh Gautam',
+      email: 'astrovichar10@gmail.com',
       specialties: ['Vedic Astrology', 'Kundli Analysis', 'Marriage Guidance'],
-      experience: 25,
+      experience: 14,
       rating: 4.9,
       consultations: 12000,
       languages: ['Hindi', 'English'],
