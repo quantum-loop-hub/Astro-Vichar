@@ -8,7 +8,7 @@ const About = () => {
   const astrologers = [
     {
       name: 'Pandit Akhilesh Gautam',
-      email: 'astrovichar10@gmail.com',
+      email: 'astrovichar8@gmail.com',
       specialties: ['Vedic Astrology', 'Kundli Analysis', 'Marriage Guidance'],
       experience: 14,
       rating: 4.9,
